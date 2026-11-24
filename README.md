@@ -1,5 +1,5 @@
 # Todo
-The Todo application consits of basic Curd operations 
+The Todo application consists of basic Curd operations 
 Create
 Update
 Read
